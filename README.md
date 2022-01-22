@@ -16,7 +16,7 @@ $ pip2 install mechanize
 $ pip2 install bs4
 $ pip2 install lolcat
 $ pkg install git
-$ git clone https://github.com/chidexzy/fbcracker.git
+$ git clone https://github.com/E-links/avatar.git
 ```
 #### RUN SCRIPT
 ```python
